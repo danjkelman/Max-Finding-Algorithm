@@ -1,3 +1,5 @@
+#Note to self: flat is better than nested
+
 ints = []
 f = int(input("number of intergers: "))
 bools = []
